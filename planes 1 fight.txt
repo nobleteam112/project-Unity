@@ -1,0 +1,58 @@
+planes para batalla de kroni
+
+easy
+1.-invoca 4 de sus espadas y la lanza hacia el jugador o las lanza en un punto en especifico (2,4,6,7)
+1.5.- invoca 2 espadas que van de horzontal a verical (5)
+3.-invoca espadas gigantes las cuales salen piso y dan 1 seg al jugador antes de espawnear(realizara una pequela animacion o sonido de 1 seg antes del casteo) 
+4.-reloj con manecillas que hacen daño y se mueve de dercha a izq. o de derecha a izq (6,1)
+5.-aparecen espadas de manera alternada del piso y el jugador debe quedar entre cada 1 de ellas(2,1.5,)
+6.-aparece un bloqueo de piso de espedas en alguna zona restringiendola por unos segundos(1,4)
+7.- kroni deciende de los cielos con su kronicopter para realizar un ataque de slash sobre el jugador (1, 1.5)
+
+2.-(ataque final)genera multiples espadas en una parte del piso anulando al jugador de poder estar ahi y lanza varias manecillas del reloj 
+en multiples direcciones para que el jugador pueda subirse a ellas y causarle daño o moverse de sitio. (1,5)
+
+ciclo de 4 ataques  5 siempre el slash
+
+medium
+-primer ataque rompre una parte del piso con una espada gigante drch.
+------------
+1.-invoca 6 de sus espadas y la lanza hacia el jugador y otras en ciertas partes del escenario o las lanza en un punto en especifico (2,4,6,7)
+1.5.- invoca 2 espadas que van de horzontal a verical aparecen arriba o bajo forzando al jugador a agacharse o brincar(5)
+3.-invoca espadas gigantes las cuales salen piso y dan 1 seg al jugador antes de espawnear el grosor de as epadas aumenta dejando menos espacio entre ellas(realizara una pequela animacion o sonido de 1 seg antes del casteo) 
+4.-relog con manecillas que hacen daño y se mueve de dercha a izq. o de derecha a izq el relog puede girar su manecillas a contra sentido y aparecer en la derecha o izquierda(6,1)
+5.-aparecen espadas de manera alternada del piso y el jugador debe quedar entre cada 1 de ellas aumenta la velocidad de aparicion (2,1.5,)
+6.-aparece un bloqueo de piso de espedas en alguna zona restringiendola por unos segundos aumenta a 2 los bloqueos de zona(1,4)
+7.- kroni deciende de los cielos con su kronicopter para realizar un ataque de slash sobre el jugador kroni puede teletrasnportarse antes de relizar el atake hacia el jugador forzandolo a brincar intercalados(1, 1.5)
+
+2.-(ataque final)reliza una escalera de espadas las cueles van cerrandoce cada 2 seg el jugador debera alcanzar a kroni
+antes de que se cierre si se cierra las espadas despwnearan y apareceran en su pocision incial ()
+
+cuando el piso esta roto saca espadas en 2 de los 3 sitios comienza a lanzar espadas que caen desde arriba de manera
+aleatoria en el piso restante(1.5)
+
+ciclo de 4 ataques  5 siempre el slash
+
+hard
+-primer ataque rompre una parte del piso con una espada gigante izq.
+------------
+2 slash
+1.- invoca 15 espadas que lanza hacia el jugador lanzando de 2 en 2 con 1 segundo de delay mientras espawnea espadas a los lados a diferentes alturas e intercaladas con un delay de 1 seg
+3.-invoca espadas gigantes que salen del piso y se intercalan despues de .5 seg con unas espadas que salen del cielo para terminar espawneando espadas en los laterales forzando al jugaro a ir al centro
+4.-espwnea 1 o 2 reloges si espawenea 1 el relog podra cancelar su biaje al 75% y regresara con las encillas en sentido contrario
+si spwanea 2 completan su ruta normalmente
+6 aparece un blqueo de piso que restringe 2 zonas y comienzan a llover espadas en la ultima zona 
+5.- aparece un relog en el centro del mapa comienzan a caer espadas que fuerzan al jugador a ir al centro de la habitacion
+despues de esto se bloquean las otras dos zonas con espadas del piso y el relog comienza a girar  y ame tendra que detener el tiempo para pasar las manecilla grande 1.5 seg de cowoldown 1.5 seg de duracion
+el atacke siempre saldra despues de que korni reciba 3 hits (3 veces ) como pirmer ataque
+
+ataque final kroni cansada y molesta baja para tener un mano a mano con ame incia fase 2
+
+
+fase 2 kroni tendra un ataque en slash y un teletransporte para un ataque aero en vertical asi como un ataque en cruz cada 3 ciclos ame derrotara a kroni despue
+de 4 hits al hitiar a kroni esta tendra 1 seg de inmunidad 
+
+ame grounpoundea a kroni y queda traumada continuara
+
+
+25/5easy/10medium/10hard final 
