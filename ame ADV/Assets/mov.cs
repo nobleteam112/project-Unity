@@ -5,7 +5,7 @@ using UnityEngine;
 public class mov : MonoBehaviour
 {
     public float speed, jumpforce, back, atk;                 //declaracion de todas la variables que se estan utilizando.
-    private float Horizontal, Vertical;
+    private float Horizontal;
     private bool grounded, air;
     private Rigidbody2D Rigidbody2D;
 
@@ -20,9 +20,9 @@ public class mov : MonoBehaviour
         if (Horizontal < 0.0f) transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
         else if (Horizontal > 0.0f) transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
 
-    //Debug.DrawRay(transform.position, Vector3.down * 1.6f, Color.red);
+            //Debug.DrawRay(transform.position, Vector3.down * 1.6f, Color.red);
 
-            if (Physics2D.Raycast(transform.position, Vector3.down, 1.6f))
+            if (Physics2D.Raycast(transform.position, Vector3.down, 1.0f))
                 {
                     grounded = true;
                      air = false;
@@ -58,7 +58,7 @@ public class mov : MonoBehaviour
         private void Atack()
          {
 
-         Rigidbody2D.AddForce(Vector3.down * atk);
+         Rigidbody2D.AddForce(Vector2.down * atk);
         }
 
         private void FixedUpdate()

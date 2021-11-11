@@ -14,7 +14,8 @@ public class camaracont : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    {  
         transform.position = personaje.transform.position + posicion;
     }
+
 }
